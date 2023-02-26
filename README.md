@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HASAN KAAN KAHRAMAN</h1>
 <h3 align="center">I'm a 3D artist and Unity Developer</h3>
-<iframe src="https://giphy.com/embed/3o7aCTfyhYawdOXcFW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-loop-3o7aCTfyhYawdOXcFW">via GIPHY</a></p>
+<img align="right" alt="Unity" width="400" src="https://thumbs.gfycat.com/LastingBareIberianbarbel-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasankaankahraman&label=Profile%20views&color=0e75b6&style=flat" alt="hasankaankahraman" /> </p>
 
