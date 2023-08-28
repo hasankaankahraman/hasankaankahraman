@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/k44nkahraman" target="blank"><img src="https://img.shields.io/twitter/follow/k44nkahraman?logo=twitter&style=for-the-badge" alt="k44nkahraman" /></a> </p>
 
-- 🔭 I’m currently working on [CTC]
+- 🔭 I’m currently working on Zeybe e-commerce App
 
 - 🌱 I’m currently learning **Unity, 3Dsmax,React Native**
 
